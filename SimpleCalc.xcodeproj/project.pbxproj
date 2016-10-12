@@ -219,6 +219,7 @@
 		3C8F98DD1DA4CFD9009FFC22 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				DEVELOPMENT_TEAM = VGAP45ASAP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -228,6 +229,7 @@
 		3C8F98DE1DA4CFD9009FFC22 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				DEVELOPMENT_TEAM = VGAP45ASAP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -253,6 +255,7 @@
 				3C8F98DE1DA4CFD9009FFC22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
